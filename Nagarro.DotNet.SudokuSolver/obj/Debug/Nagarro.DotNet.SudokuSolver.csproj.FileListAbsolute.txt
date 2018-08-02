@@ -1,0 +1,7 @@
+C:\Users\arjundhall\source\repos\Nagarro.DotNet.SudokuSolver\Nagarro.DotNet.SudokuSolver\bin\Debug\Nagarro.DotNet.SudokuSolver.exe.config
+C:\Users\arjundhall\source\repos\Nagarro.DotNet.SudokuSolver\Nagarro.DotNet.SudokuSolver\bin\Debug\Nagarro.DotNet.SudokuSolver.exe
+C:\Users\arjundhall\source\repos\Nagarro.DotNet.SudokuSolver\Nagarro.DotNet.SudokuSolver\bin\Debug\Nagarro.DotNet.SudokuSolver.pdb
+C:\Users\arjundhall\source\repos\Nagarro.DotNet.SudokuSolver\Nagarro.DotNet.SudokuSolver\obj\Debug\Nagarro.DotNet.SudokuSolver.csprojAssemblyReference.cache
+C:\Users\arjundhall\source\repos\Nagarro.DotNet.SudokuSolver\Nagarro.DotNet.SudokuSolver\obj\Debug\Nagarro.DotNet.SudokuSolver.csproj.CoreCompileInputs.cache
+C:\Users\arjundhall\source\repos\Nagarro.DotNet.SudokuSolver\Nagarro.DotNet.SudokuSolver\obj\Debug\Nagarro.DotNet.SudokuSolver.exe
+C:\Users\arjundhall\source\repos\Nagarro.DotNet.SudokuSolver\Nagarro.DotNet.SudokuSolver\obj\Debug\Nagarro.DotNet.SudokuSolver.pdb
